@@ -8,6 +8,7 @@ authors = ["Lucas Möller <lucas.moeller-extern@deutschebahn.com>"]
 python = "^3.10"
 pandas = "^1.4.3"
 numpy = "^1.23.1"
+matplotlib = "^3.5.2"
 
 [tool.poetry.dev-dependencies]
 
